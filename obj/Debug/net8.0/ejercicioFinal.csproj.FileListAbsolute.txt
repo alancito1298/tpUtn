@@ -1,0 +1,29 @@
+C:\Users\bgh\source\repos\ejercicioFinal\ejercicioFinal\bin\Debug\net8.0\ejercicioFinal.exe
+C:\Users\bgh\source\repos\ejercicioFinal\ejercicioFinal\bin\Debug\net8.0\ejercicioFinal.deps.json
+C:\Users\bgh\source\repos\ejercicioFinal\ejercicioFinal\bin\Debug\net8.0\ejercicioFinal.runtimeconfig.json
+C:\Users\bgh\source\repos\ejercicioFinal\ejercicioFinal\bin\Debug\net8.0\ejercicioFinal.dll
+C:\Users\bgh\source\repos\ejercicioFinal\ejercicioFinal\bin\Debug\net8.0\ejercicioFinal.pdb
+C:\Users\bgh\source\repos\ejercicioFinal\ejercicioFinal\obj\Debug\net8.0\ejercicioFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgh\source\repos\ejercicioFinal\ejercicioFinal\obj\Debug\net8.0\ejercicioFinal.AssemblyInfoInputs.cache
+C:\Users\bgh\source\repos\ejercicioFinal\ejercicioFinal\obj\Debug\net8.0\ejercicioFinal.AssemblyInfo.cs
+C:\Users\bgh\source\repos\ejercicioFinal\ejercicioFinal\obj\Debug\net8.0\ejercicioFinal.csproj.CoreCompileInputs.cache
+C:\Users\bgh\source\repos\ejercicioFinal\ejercicioFinal\obj\Debug\net8.0\ejercicioFinal.dll
+C:\Users\bgh\source\repos\ejercicioFinal\ejercicioFinal\obj\Debug\net8.0\refint\ejercicioFinal.dll
+C:\Users\bgh\source\repos\ejercicioFinal\ejercicioFinal\obj\Debug\net8.0\ejercicioFinal.pdb
+C:\Users\bgh\source\repos\ejercicioFinal\ejercicioFinal\obj\Debug\net8.0\ejercicioFinal.genruntimeconfig.cache
+C:\Users\bgh\source\repos\ejercicioFinal\ejercicioFinal\obj\Debug\net8.0\ref\ejercicioFinal.dll
+C:\Users\Alancito\Desktop\tp Utn\TPFinalDiploUtn\ejercicioFinal\bin\Debug\net8.0\ejercicioFinal.exe
+C:\Users\Alancito\Desktop\tp Utn\TPFinalDiploUtn\ejercicioFinal\bin\Debug\net8.0\ejercicioFinal.deps.json
+C:\Users\Alancito\Desktop\tp Utn\TPFinalDiploUtn\ejercicioFinal\bin\Debug\net8.0\ejercicioFinal.runtimeconfig.json
+C:\Users\Alancito\Desktop\tp Utn\TPFinalDiploUtn\ejercicioFinal\bin\Debug\net8.0\ejercicioFinal.dll
+C:\Users\Alancito\Desktop\tp Utn\TPFinalDiploUtn\ejercicioFinal\bin\Debug\net8.0\ejercicioFinal.pdb
+C:\Users\Alancito\Desktop\tp Utn\TPFinalDiploUtn\ejercicioFinal\obj\Debug\net8.0\ejercicioFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alancito\Desktop\tp Utn\TPFinalDiploUtn\ejercicioFinal\obj\Debug\net8.0\ejercicioFinal.AssemblyInfoInputs.cache
+C:\Users\Alancito\Desktop\tp Utn\TPFinalDiploUtn\ejercicioFinal\obj\Debug\net8.0\ejercicioFinal.AssemblyInfo.cs
+C:\Users\Alancito\Desktop\tp Utn\TPFinalDiploUtn\ejercicioFinal\obj\Debug\net8.0\ejercicioFinal.csproj.CoreCompileInputs.cache
+C:\Users\Alancito\Desktop\tp Utn\TPFinalDiploUtn\ejercicioFinal\obj\Debug\net8.0\ejercicioFinal.sourcelink.json
+C:\Users\Alancito\Desktop\tp Utn\TPFinalDiploUtn\ejercicioFinal\obj\Debug\net8.0\ejercicioFinal.dll
+C:\Users\Alancito\Desktop\tp Utn\TPFinalDiploUtn\ejercicioFinal\obj\Debug\net8.0\refint\ejercicioFinal.dll
+C:\Users\Alancito\Desktop\tp Utn\TPFinalDiploUtn\ejercicioFinal\obj\Debug\net8.0\ejercicioFinal.pdb
+C:\Users\Alancito\Desktop\tp Utn\TPFinalDiploUtn\ejercicioFinal\obj\Debug\net8.0\ejercicioFinal.genruntimeconfig.cache
+C:\Users\Alancito\Desktop\tp Utn\TPFinalDiploUtn\ejercicioFinal\obj\Debug\net8.0\ref\ejercicioFinal.dll
