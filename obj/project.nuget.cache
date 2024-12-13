@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "CDZvh2cguVo=",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\Alancito\\Desktop\\tp Utn\\TPFinalDiploUtn\\ejercicioFinal\\ejercicioFinal.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "CDZvh2cguVo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alancito\\Desktop\\tp Utn\\TPFinalDiploUtn\\ejercicioFinal\\ejercicioFinal.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 0798187ddc7b58fb85e41ef2d42b803c3f6311f3
 }

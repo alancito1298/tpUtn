@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 is_global = true
 build_property.TargetFramework = net8.0
 build_property.TargetPlatformMinVersion = 
@@ -11,3 +12,18 @@ build_property.RootNamespace = ejercicioFinal
 build_property.ProjectDir = C:\Users\Alancito\Desktop\tp Utn\TPFinalDiploUtn\ejercicioFinal\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+=======
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ejercicioFinal
+build_property.ProjectDir = C:\Users\Alancito\Desktop\tp Utn\TPFinalDiploUtn\ejercicioFinal\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+>>>>>>> 0798187ddc7b58fb85e41ef2d42b803c3f6311f3
